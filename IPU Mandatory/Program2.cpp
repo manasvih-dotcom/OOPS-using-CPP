@@ -1,3 +1,7 @@
+/* PROBLEM STATEMENT:
+Create a class called LIST with 2 virtual functions store() and retrieve(),
+Derive two classes stack and queue from it and override store and retrieve. */
+    
 #include <iostream>
 using namespace std;
 
