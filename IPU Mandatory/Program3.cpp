@@ -1,9 +1,9 @@
-/*A system has current CPU and memory utilization.
-If CPU utilization is below memory utilization, a CPU-intensive task may be started.
-If memory utilization is below CPU utilization, a memory-intensive task may be started.
-Write a program using a friend function to determine which type of task should be started based on the current CPU
-and memory utilization (that are part of CPU and Memory classes respectively)
-  */
+/*PROBLEM STATEMENT
+  A system has current CPU and memory utilization.
+  If CPU utilization is below memory utilization, a CPU-intensive task may be started. 
+  If memory utilization is below CPU utilization, a memory-intensive task may be started.
+  Write a program using a friend function to determine which type of task should be started based on the current CPU
+  and memory utilization (that are part of CPU and Memory classes respectively)*/
 
 #include <iostream>
 #include <iomanip>
